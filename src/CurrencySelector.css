@@ -1,0 +1,14 @@
+#currency-select{
+  min-width: 235px;
+  text-align: left;
+}
+
+#select-outlined-label{
+  padding: 0 5px;
+  background: forestgreen;
+}
+
+#selector-div{
+  margin: 3%;
+  flex: 50%;
+}

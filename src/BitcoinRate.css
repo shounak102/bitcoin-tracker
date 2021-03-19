@@ -1,0 +1,8 @@
+#standard-read-only-input{
+  min-width: 250px;
+}
+
+#display-div{
+  margin: 3%;
+  flex: 50%;
+}
